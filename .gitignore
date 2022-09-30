@@ -21,3 +21,5 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/correcao-avaliacao-atualizado-23-09-2022/correcao-avaliacao/nbproject/private/
+/correcao-avaliacao-atualizado-23-09-2022/correcao-avaliacao/build/
